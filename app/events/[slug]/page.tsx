@@ -183,7 +183,7 @@ export default async function EventPage({ params }: { params: Promise<{ slug: st
               <div className="rounded-xl border border-border bg-card p-6 sticky top-24">
                 {/* Sidebar disclaimer - must be visible */}
                 <div className="mb-5 p-3 rounded-lg bg-accent/10 border border-accent/30">
-                  <p className="text-xs font-medium text-accent leading-snug">
+                  <p className="text-lg font-medium text-accent leading-snug">
                     <strong>Másodlagos piaci platform.</strong> Nem értékesítünk jegyeket. Az árak viszonteladói árak és meghaladhatják a névértéket.
                   </p>
                 </div>

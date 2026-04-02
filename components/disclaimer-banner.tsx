@@ -21,7 +21,7 @@ export default function DisclaimerBanner({ className, variant = "hero" }: Discla
           className
         )}
       >
-        <p className="text-sm font-600 text-accent/90 leading-tight flex items-center gap-1.5">
+        <p className="text-xl font-600 text-accent/90 leading-tight flex items-center gap-1.5">
           <AlertTriangle size={12} className="shrink-0" />
           <span>
             <strong>Másodlagos piac</strong> – viszonteladói árak, meghaladhatják a névértéket. Nem értékesítünk jegyeket.

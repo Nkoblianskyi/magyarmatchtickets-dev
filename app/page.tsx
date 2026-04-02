@@ -250,7 +250,6 @@ export default function HomePage() {
                   href={`/events?category=${encodeURIComponent(cat.label)}`}
                   className="group flex flex-col items-center gap-2 p-5 rounded-xl border border-border bg-card hover:border-primary/40 hover:bg-primary/5 transition-all text-center"
                 >
-                  <span className="text-3xl">{cat.icon}</span>
                   <span className="font-condensed font-700 text-sm uppercase tracking-wide text-foreground group-hover:text-primary transition-colors">
                     {cat.label}
                   </span>

@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="bg-accent/10 border-b border-accent/30 px-4 py-5">
         <div className="max-w-7xl mx-auto flex items-start gap-3">
           <AlertTriangle className="text-accent shrink-0 mt-0.5" size={20} />
-          <p className="text-sm leading-relaxed text-foreground/90">
+          <p className="text-lg leading-relaxed text-foreground/90">
             <span className="font-condensed font-700 text-accent uppercase tracking-wide text-base">Fontos tájékoztató: </span>
             Ez a weboldal egy <strong>másodlagos piaci platform</strong>. Nem értékesítünk jegyeket közvetlenül, nem gyűjtünk és nem tárolunk fizetési adatokat.
             Csak partnereink aktuális árait hasonlítjuk össze. A jegyeket <strong>viszonteladók kínálják</strong> – az árak{" "}
