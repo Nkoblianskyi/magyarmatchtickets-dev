@@ -76,7 +76,7 @@ export default function HomePage() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
               <div className="max-w-3xl">
 
-                <h1 className="text-right font-condensed font-900 text-5xl sm:text-6xl md:text-7xl uppercase leading-none tracking-tight text-balance mb-6">
+                <h1 className="text-right font-condensed font-900 text-4xl sm:text-5xl md:text-6xl uppercase leading-none tracking-tight text-balance mb-6">
                   <span className="text-foreground">Találja meg a</span>{" "}
                   <span className="text-primary neon-glow">legjobb árat</span>{" "}
                   <span className="text-foreground">kedvenc sporteseményére</span>
