@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
           <h1 className="font-condensed font-900 text-5xl uppercase text-balance mb-3">
             Adatvédelmi Irányelvek
           </h1>
-          <p className="text-sm text-muted-foreground mb-10">Utolsó frissítés: 2026. január 1.</p>
+          <p className="text-sm text-muted-foreground mb-10">Utolsó frissítés: 2026.</p>
 
           <div className="prose prose-sm max-w-none text-muted-foreground leading-relaxed flex flex-col gap-8">
             <section>

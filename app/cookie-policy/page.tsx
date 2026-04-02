@@ -18,7 +18,7 @@ export default function CookiePolicyPage() {
           <h1 className="font-condensed font-900 text-5xl uppercase text-balance mb-3">
             Cookie-szabályzat
           </h1>
-          <p className="text-sm text-muted-foreground mb-10">Utolsó frissítés: 2026. január 1.</p>
+          <p className="text-sm text-muted-foreground mb-10">Utolsó frissítés: 2026</p>
 
           <div className="flex flex-col gap-8 text-muted-foreground leading-relaxed text-sm">
             <section>
